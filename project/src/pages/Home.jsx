@@ -30,7 +30,7 @@ function Home() {
       icon: <Pill className="h-12 w-12 text-purple-600 mb-4" />,
       title: "Pay-As-You-Go Refills",
       description:
-        "Never miss your medications. Get your refills now and pay in comfortable installments that fit your budget.",
+        "Never miss your medications. Get your refills or for your loved ones now and pay in comfortable installments that fit your budget.",
       link: "/refills",
     },
     {
