@@ -24,7 +24,6 @@ function Footer() {
                   Health Loans
                 </a>
               </li>
-              h
               <li>
                 <a href="/wellness" className="hover:text-purple-400">
                   Wellness Program
