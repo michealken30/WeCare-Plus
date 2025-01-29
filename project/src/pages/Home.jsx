@@ -103,7 +103,7 @@ function Home() {
       image:
         "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&q=80",
       quote:
-        "WeCare Plus made it possible for me to get the treatment I needed without financial stress.",
+        "HealthyPay made it possible for me to get the treatment I needed without financial stress.",
     },
     {
       name: "Michael Chen",
@@ -335,7 +335,7 @@ function Home() {
                     ))}
                   </div>
                   <p className="text-gray-600 mb-4">
-                    "Thanks to WeCare Plus, I was able to get the treatment I
+                    "Thanks to HealthyPay, I was able to get the treatment I
                     needed without financial stress."
                   </p>
                   <p className="font-semibold">John Doe</p>

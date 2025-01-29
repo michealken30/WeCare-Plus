@@ -9,7 +9,7 @@ function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Heart className="h-6 w-6 text-purple-400" />
-              <span className="text-xl font-bold">WeCare Plus</span>
+              <span className="text-xl font-bold">HealthyPay</span>
             </div>
             <p className="text-gray-400">
               Making healthcare accessible and affordable for everyone.
@@ -46,7 +46,7 @@ function Footer() {
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
               <li>1-800-HEALTH</li>
-              <li>support@Wecareplus.com</li>
+              <li>support@healthpay.com</li>
               <li>123 Healthcare Ave</li>
               <li>Medical Center, MC 12345</li>
             </ul>
@@ -65,7 +65,7 @@ function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
           <p>
-            &copy; {new Date().getFullYear()} WeCare Plus. All rights reserved.
+            &copy; {new Date().getFullYear()} HealthyPay. All rights reserved.
           </p>
         </div>
       </div>
