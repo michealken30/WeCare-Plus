@@ -46,7 +46,7 @@ function Footer() {
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
               <li>1-800-HEALTH</li>
-              <li>support@healthpay.com</li>
+              <li>support@healthypay.com</li>
               <li>123 Healthcare Ave</li>
               <li>Medical Center, MC 12345</li>
             </ul>
